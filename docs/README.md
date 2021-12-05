@@ -1,4 +1,4 @@
-# Welcome to the Documentation site's Github repo! 🎉 👨‍💻
+# Welcome to the Documentation repo! 🎉 👨‍💻
 
 Editing the files in the `docs` folder will modify the pages on the [live site][docWebsite]. Feel free to create [Issues][docsIssues] and/or [Pull Requests][docsPullRequests] for changes you think will make the website better!
 
@@ -32,12 +32,13 @@ npm run dev
 
 Open your browser (Chrome, Firefox, etc) to `localhost:3000`
 
+---
 
-# Please Note
+## Please Note
 
-If you want make any `css` changes, please make them in the `scss` folder in the appropriate file. The `css` files are generated from the `scss` files. 
+If you want make any `css` changes, please make them in the `scss` folder, in the appropriate file. The `css` files are generated from the `scss` files. 
 
-You can test this buy running `npm run styles`. This command will compile the `scss` files into the `css` files and then minify those `css` files.
+You can test this by running `npm run styles`. This command will compile the `scss` files into the `css` files and then minify those `css` files.
 
 <!-- Links used in the page -->
 
