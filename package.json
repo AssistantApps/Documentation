@@ -7,7 +7,7 @@
     "dev": "docsify serve docs",
     "scss:main": "sass scss/assistantDocs.scss docs/assets/css/main.css",
     "css:minify": "node node/minifyAssets.js",
-    "styles": "npm-run-all --sequential sass:* css:*"
+    "styles": "npm-run-all --sequential scss:* css:*"
   },
   "keywords": [],
   "author": "",
