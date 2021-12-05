@@ -18,6 +18,10 @@
     padding-top: 2em;
 }
 
+article#main>div:first-child {
+    display: inline;
+}
+
 // body:not(.sticky) .sidebar,
 // body:not(.sticky) .sidebar-toggle {
 //     left: 1em;
