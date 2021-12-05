@@ -1,66 +1,47 @@
-<div id="content"></div>
+# Welcome to the Documentation site's Github repo! 🎉 👨‍💻
 
-# Welcome to the Documentation site! 🎉
+Editing the files in the `docs` folder will modify the pages on the [live site][docWebsite]. Feel free to create [Issues][docsIssues] and/or [Pull Requests][docsPullRequests] for changes you think will make the website better!
 
-> This site was built to help you solve any problems you might be having with apps in the AssistantApps range. This webpage is completely edittible and we encourage you to create [Issues][docsIssues] and [Pull Requests][docsPullRequests] on github to keep this website up to date! 
+## Running it locally
 
-## Quick Links
+### 1. Pull the source code
 
-- [Home page][homePage]
-- [Github Organisation][githubOrg]
+_Run this in your terminal or CMD_
+
+```
+git clone https://github.com/AssistantApps/Documentation.git
+```
+
+### 2. Install dependencies
+
+_Run this in your terminal or CMD_
+
+```
+npm run dev:install
+```
+
+### 3. Run it
+
+_Run this in your terminal or CMD_
+
+```
+npm run dev
+```
+
+### 4. View it
+
+Open your browser (Chrome, Firefox, etc) to `localhost:3000`
 
 
-- [<img align="left" alt="nmsassistant.com" width="22px" src="https://cdn.assistantapps.com/icon/assistantNMS.png" />Assistant for No Man's Sky][assistantnms]
-- [<img align="left" alt="scrapassistant.com" width="22px" src="https://cdn.assistantapps.com/icon/assistantSMS.png" />Assistant for Scrap Mechanic][assistantsms]
-- [<img align="left" alt="Kronos" width="22px" src="https://cdn.assistantapps.com/icon/kronos.jpg" />Kronos: Guides for Zombies][assistantKronos]
+# Please Note
 
+If you want make any `css` changes, please make them in the `scss` folder in the appropriate file. The `css` files are generated from the `scss` files. 
 
-## Community
-
-[![discord](assets/img/joinDiscord.svg)][discord]
-
-Otherwise you can: 
-- [Send an Email][email]
-- [Fill in a contact form][contactForm]
-- [Mention us on Twitter][twitter]
-- [Mention AssistantNMS on Twitter][assistantNMSTwitter]
-
-
-## Donate
-
-Please consider donating if you like using an app that is part of the AssistantApps range. It helps us manage the server costs and Apple Developer licences :heart:
-
-[BuyMeACoffee][buyMeACoffee], 
-[Patreon][patreon], 
-[Paypal][paypal], 
-[Ko-Fi][kofi], 
-[Brave][brave], 
-[Open Collective][openCollective]
-
+You can test this buy running `npm run styles`. This command will compile the `scss` files into the `css` files and then minify those `css` files.
 
 <!-- Links used in the page -->
 
-<!-- Main -->
+[docWebsite]: https://docs.assistantapps.com?ref=AssistantAppsGithub
 [homePage]: https://assistantapps.com?ref=AssistantAppsDocs
-[githubOrg]: https://github.com/AssistantApps?ref=AssistantAppsDocs
-[assistantKronos]: https://play.google.com/store/apps/details?id=companion.kronosflutter&ref=AssistantAppsDocs
-[assistantnms]: https://nmsassistant.com?ref=AssistantAppsDocs
-[assistantsms]: https://scrapassistant.com?ref=AssistantAppsDocs
 [docsIssues]: https://github.com/AssistantApps/Documentation/issues?ref=AssistantAppsDocs
 [docsPullRequests]: https://github.com/AssistantApps/Documentation/pulls?ref=AssistantAppsDocs
-
-<!-- Donation links -->
-[buyMeACoffee]: https://www.buymeacoffee.com/kurt?ref=AssistantAppsDocs
-[patreon]: https://www.patreon.com/AssistantNMS?ref=AssistantAppsDocs
-[paypal]: https://paypal.me/KurtLourens?ref=AssistantAppsDocs
-[kofi]: https://ko-fi.com/AssistantNMS?ref=AssistantAppsDocs
-[brave]: https://brave.com/nms136?ref=AssistantAppsDocs
-[openCollective]: https://opencollective.com/assistantnms?ref=AssistantAppsDocs
-
-<!-- Other -->
-[discord]: https://assistantapps.com/discord?ref=AssistantAppsDocs
-[contactForm]: https://assistantapps.com/#footer
-[email]: mailto:support@assistantapps.com?ref=AssistantAppsDocs
-[kurt]: https://kurtlourens.com?ref=assistantAppsDocs
-[assistantNMSTwitter]: https://twitter.com/AssistantNMS?ref=AssistantAppsDocs
-[twitter]: https://twitter.com/AssistantApps?ref=AssistantAppsDocs

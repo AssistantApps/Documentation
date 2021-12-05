@@ -5,8 +5,9 @@
   "scripts": {
     "dev:install": "npm i docsify-cli -g",
     "dev": "docsify serve docs",
-    "sass:main": "sass scss/assistantDocs.scss docs/assets/css/main.css",
-    "css:minify": "node node/minifyAssets.js"
+    "scss:main": "sass scss/assistantDocs.scss docs/assets/css/main.css",
+    "css:minify": "node node/minifyAssets.js",
+    "styles": "npm-run-all --sequential sass:* css:*"
   },
   "keywords": [],
   "author": "",
