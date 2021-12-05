@@ -1,0 +1,49 @@
+:root {
+    --theme-color: #39BDE4;
+}
+
+.ready .search {
+    padding: 0;
+
+    input[type=search] {
+        background: $slight-background;
+    }
+}
+
+.app-name-link img {
+    max-height: 50px;
+}
+
+.content {
+    padding-top: 2em;
+}
+
+// body:not(.sticky) .sidebar,
+// body:not(.sticky) .sidebar-toggle {
+//     left: 1em;
+// }
+
+#assistantapps {
+    margin-bottom: 0;
+
+    +blockquote,
+    +blockquote p {
+        margin: 0.25em 0;
+    }
+}
+
+li>a>img {
+    margin-right: 0.5em;
+}
+
+.not-found {
+    h1 {
+        color: white;
+    }
+
+    text-align: center;
+
+    img {
+        max-width: 500px;
+    }
+}

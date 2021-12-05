@@ -1,0 +1,81 @@
+.sidebar {
+  padding-top: 1em;
+}
+
+.team-member {
+  display: flex;
+  margin-bottom: 1em;
+  padding-bottom: 1em;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+.team-member:last-child {
+  border-bottom: none;
+}
+.team-member img {
+  width: 75px;
+  height: 75px;
+  border-radius: 5px;
+}
+.team-member .team-member-contents {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 1em;
+}
+.team-member .team-member-contents h3,
+.team-member .team-member-contents p {
+  margin: 0;
+  padding: 0;
+  color: #f0f0f0;
+}
+
+:root {
+  --theme-color: #39BDE4;
+}
+
+.ready .search {
+  padding: 0;
+}
+.ready .search input[type=search] {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.app-name-link img {
+  max-height: 50px;
+}
+
+.content {
+  padding-top: 2em;
+}
+
+#assistantapps {
+  margin-bottom: 0;
+}
+#assistantapps + blockquote,
+#assistantapps + blockquote p {
+  margin: 0.25em 0;
+}
+
+li > a > img {
+  margin-right: 0.5em;
+}
+
+.not-found {
+  text-align: center;
+}
+.not-found h1 {
+  color: white;
+}
+.not-found img {
+  max-width: 500px;
+}
+
+.cover.show {
+  background: #020024 !important;
+  background: linear-gradient(140deg, #020024 0%, #090979 35%, #9600ff 100%) !important;
+}
+.cover.show img[alt=logo] {
+  max-width: 100px;
+}
+
+/*# sourceMappingURL=main.css.map */
