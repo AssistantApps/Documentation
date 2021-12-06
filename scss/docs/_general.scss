@@ -1,5 +1,8 @@
 :root {
     --theme-color: #39BDE4;
+
+    // AssistantApps WebComponents
+    --assistantapps-font-family: Source Sans Pro, Helvetica Neue, Arial, sans-serif;
 }
 
 .ready .search {
@@ -41,7 +44,10 @@ li>a>img {
 }
 
 .not-found {
-    h1 {
+
+    h1,
+    h2,
+    h3 {
         color: white;
     }
 

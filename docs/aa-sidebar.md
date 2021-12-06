@@ -3,6 +3,7 @@
 - About
 
   - [Intro](about-intro.md)
+  - [Patreon Supporters 🧡](about-patrons.md)
   - [The Team](about-team.md)
 
 - Apps
