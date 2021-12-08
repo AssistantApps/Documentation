@@ -13,10 +13,16 @@
   - [<img align="left" alt="scrapassistant.com" width="22px" src="https://cdn.assistantapps.com/icon/assistantSMS.png" />Assistant for Scrap Mechanic](apps/sms-main.md)
   - [<img align="left" alt="Kronos" width="22px" src="https://cdn.assistantapps.com/icon/kronos.jpg" />Kronos: Guides for Zombies](apps/kgz-main.md)
 
-<!-- - Components
+- Components
   - WebComponents
-    - [Patreon list](components/web-patreon.md)
-  - Flutter -->
+    - [Patreon list](components/web-patreon-list.md)
+    - [Patreon tile](components/web-patron-tile.md)
+  - Flutter
+    - [BottomModal](components/flutter-adaptive-bottommodal.md)
+    - [SearchBar](components/flutter-adaptive-searchbar.md)
+    - [SearchList](components/flutter-adaptive-searchablelist.md)
+    - [LazyLoadedSearchList](components/flutter-adaptive-lazyloadedsearchablelist.md)
+    - [PopupMenu](components/flutter-adaptive-popupmenu.md)
 
 - [Changelog](changelog.md)
 

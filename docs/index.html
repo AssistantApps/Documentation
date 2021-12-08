@@ -85,6 +85,7 @@
   <link rel="preload" href="https://cdn.assistantapps.com/icon/kronos.jpg" as="image">
 
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/dark.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" />
   <link rel="stylesheet" href="/assets/css/main.css">
 </head>
 
@@ -114,8 +115,10 @@
         hideOtherSidebarContent: false,
       },
       plugins: [
-        EditOnGithubPlugin.create('https://github.com/AssistantApps/Documentation/blob/master/docs/', null, '📝 Edit this page')
-      ]
+        EditOnGithubPlugin.create('https://github.com/AssistantApps/Documentation/edit/main/docs/', null, '📝 Edit this page')
+      ],
+      subMaxLevel: 1,
+      sidebarDisplayLevel: 1,
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
@@ -123,6 +126,7 @@
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
   <script src="https://assistantapps.github.io/WebComponents/build/bundle.js"></script>
 </body>
 

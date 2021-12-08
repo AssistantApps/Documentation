@@ -4,7 +4,7 @@
 
 Available from: [github.com/AssistantApps/WebComponents](https://github.com/AssistantApps/WebComponents)
 
-### Params:
+### Params
  - name: `string`
  - imageurl: `string`
 
