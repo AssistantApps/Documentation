@@ -1,4 +1,4 @@
-# Flutter - SearchableList
+# SearchableList
 
 > This is the base of all searchable lists and grids
 
@@ -6,20 +6,21 @@ Available from: [github.com/AssistantApps/Flutter.Common](https://github.com/Ass
 
 ### Params
  - listGetter: `Future<ResultWithValue<List<T>>>` - **Required**
- - listItemSearch: `bool Function(T, String)`  - _Named_ - **Optional**
- - listItemDisplayer: `Widget Function(BuildContext, T)`  - _Named_ - **Optional**
- - listItemWithIndexDisplayer: `Widget Function(BuildContext, T, int)`  - _Named_ - **Optional**
- - key: `Key`  - _Named_ - **Optional**
- - firstListItemWidget: `Widget`  - _Named_ - **Optional**
- - lastListItemWidget: `Widget`  - _Named_ - **Optional**
- - hintText: `String`  - _Named_ - **Optional**
- - loadingText: `String`  - _Named_ - **Optional**
- - deleteAll: `void Function()`  - _Named_ - **Optional**
- - minListForSearch: `int`  - _Named_ - **Optional** - DefaultValue: `10`
- - addFabPadding: `bool`  - _Named_ - **Optional** - DefaultValue: `false`
- - backupListGetter: `Future<ResultWithValue<List<T>>>`  - _Named_ - **Optional**
- - backupListWarningMessage: `LocaleKey`  - _Named_ - **Optional**
+ - listItemSearch: `bool Function(T, String)` - **Optional**
+ - listItemDisplayer: `Widget Function(BuildContext, T)` - **Optional**
+ - listItemWithIndexDisplayer: `Widget Function(BuildContext, T, int)` - **Optional**
+ - key: `Key` - **Optional**
+ - firstListItemWidget: `Widget` - **Optional**
+ - lastListItemWidget: `Widget` - **Optional**
+ - hintText: `String` - **Optional**
+ - loadingText: `String` - **Optional**
+ - deleteAll: `void Function()` - **Optional**
+ - minListForSearch: `int` - **Optional** - DefaultValue: `10`
+ - addFabPadding: `bool` - **Optional** - DefaultValue: `false`
+ - backupListGetter: `Future<ResultWithValue<List<T>>>` - **Optional**
+ - backupListWarningMessage: `LocaleKey` - **Optional**
 
 ### Used in 
+- [LazyLoadedSearchList](components/flutter-adaptive-lazyloadedsearchablelist.md)
 
 

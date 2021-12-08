@@ -1,4 +1,4 @@
-# WebComponent - Patreon list
+# Patreon list
 
 > Used to display the Patreons of the AssistantApps, in a consistent manner across multiple websites/webapps.
 

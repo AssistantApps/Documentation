@@ -1,4 +1,4 @@
-# Flutter - SearchBar
+# SearchBar
 
 > A regular search bar
 

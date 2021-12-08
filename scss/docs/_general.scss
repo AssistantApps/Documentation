@@ -1,5 +1,5 @@
 :root {
-    --theme-color: #39BDE4;
+    --theme-color: #{$theme-primary-colour};
 
     // AssistantApps WebComponents
     --assistantapps-font-family: Source Sans Pro, Helvetica Neue, Arial, sans-serif;
@@ -58,6 +58,11 @@ li>a>img {
     }
 }
 
+::selection {
+    background: $theme-secondary-colour;
+    color: white;
+    /* WebKit/Blink Browsers */
+}
 
 body::-webkit-scrollbar-track {
     -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);

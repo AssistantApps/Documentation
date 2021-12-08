@@ -1,4 +1,4 @@
-# WebComponent - Patron tile
+# Patron tile
 
 > Used to display the details of a Patreon supporter.
 
