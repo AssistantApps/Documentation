@@ -12,7 +12,7 @@ Available from: [github.com/AssistantApps/Flutter.Common](https://github.com/Ass
 
 ### Example
 
-```
+```dart
     adaptiveBottomModalSheet(
         context,
         hasRoundedCorners: true,
