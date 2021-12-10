@@ -9,5 +9,7 @@
     <img src="assets/img/underConstruction.svg" alt="under construction" />
 </div>
 
+---
+
 <assistant-apps-version-search>
 </assistant-apps-version-search>
