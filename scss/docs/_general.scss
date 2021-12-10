@@ -3,6 +3,9 @@
 
     // AssistantApps WebComponents
     --assistantapps-font-family: Source Sans Pro, Helvetica Neue, Arial, sans-serif;
+
+    --assistantapps-version-dropdown-background-colour: #{$dropdown-background};
+    --assistantapps-version-dropdown-background-hover-colour: #{lighten($dropdown-background, 10%)};
 }
 
 .ready .search {

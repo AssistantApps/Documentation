@@ -17,10 +17,10 @@ Available from: [github.com/AssistantApps/WebComponents](https://github.com/Assi
 ### Example
 
 ```html
-<assistant-apps-patron-tile 
-    name="Kurt Lourens" 
-    imageurl="https://cdn.assistantapps.com/team/KhaozTopsy.png"
-/>
+  <assistant-apps-patron-tile 
+      name="Kurt Lourens" 
+      imageurl="https://cdn.assistantapps.com/team/KhaozTopsy.png"
+  />
 ```
 <assistant-apps-patron-tile 
     name="Kurt Lourens" 

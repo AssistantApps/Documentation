@@ -15,6 +15,6 @@ Available from: [github.com/AssistantApps/WebComponents](https://github.com/Assi
 ### Example
 
 ```html
-<assistant-apps-patreon-list />
+  <assistant-apps-patreon-list />
 ```
 <assistant-apps-patreon-list />

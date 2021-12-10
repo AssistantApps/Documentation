@@ -17,6 +17,8 @@
   - WebComponents
     - [Patreon list](components/web-patreon-list.md)
     - [Patreon tile](components/web-patron-tile.md)
+    - [Version search](components/web-version-search.md)
+    - [Version tile](components/web-version-tile.md)
   - Flutter
     - [BottomModal](components/flutter-adaptive-bottommodal.md)
     - [SearchBar](components/flutter-adaptive-searchbar.md)
