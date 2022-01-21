@@ -7,6 +7,17 @@ The Apps that belong to AssistantApps, have the ability to send and request data
 
 ![assistantapps-overview-api](../assets/img/assistantapps-overview-api.png)
 
+#### Some services that are shared between the apps
+
+- Update checking service
+- Changelog (What is New) list service
+- Patreon Supporters list
+- Donators list
+- Steam branches data
+- Steam News
+- Translation graphs
+
+---
 
 ### Shared Library
 The AssistantApps Apps also make use of the [AssistantApps Flutter Library](assistantAppsCommonLibrary), which contains a lot of common functionality. You can find documentation on how to use a few of the functions and widgets in the library on this website.
