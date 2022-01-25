@@ -1,6 +1,6 @@
-# Version tile
+# TeamMember tile
 
-> Used to display the details of a Patreon supporter.
+> Used to display the details of a TeamMember.
 
 Available from: [github.com/AssistantApps/WebComponents](https://github.com/AssistantApps/WebComponents)
 
