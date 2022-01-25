@@ -17,6 +17,8 @@
   - WebComponents
     - [Patreon list](components/web-patreon-list.md)
     - [Patreon tile](components/web-patron-tile.md)
+    - [TeamMember list](components/web-team-member-list.md)
+    - [TeamMember tile](components/web-team-member-tile.md)
     - [Version search](components/web-version-search.md)
     - [Version tile](components/web-version-tile.md)
   - Flutter
