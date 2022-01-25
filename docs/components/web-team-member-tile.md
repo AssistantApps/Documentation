@@ -16,6 +16,8 @@ Available from: [github.com/AssistantApps/WebComponents](https://github.com/Assi
   - DefaultValue: `rgba(255, 255, 255, 0.1)`
 - Name: `--assistantapps-team-member-text-colour`
   - DefaultValue: `#f0f0f0`
+- Name: `--assistantapps-team-member-link-text-colour`
+  - DefaultValue: `#0000EE`
 
 ### Example
 
