@@ -24,7 +24,7 @@
   padding-top: 2em;
 }
 
-article#main > div:first-child {
+article#main>div:first-child {
   display: inline;
 }
 
@@ -36,10 +36,14 @@ article#main > div:first-child {
 #assistantapps {
   margin-bottom: 0;
 
-  + blockquote,
-  + blockquote p {
+  +blockquote,
+  +blockquote p {
     margin: 0.25em 0;
   }
+}
+
+section.cover {
+  height: min(100vh, 1000px) !important;
 }
 
 img.max-h-50 {
@@ -47,6 +51,7 @@ img.max-h-50 {
 }
 
 .not-found {
+
   h1,
   h2,
   h3 {
@@ -80,14 +85,12 @@ body::-webkit-scrollbar {
 body::-webkit-scrollbar-thumb {
   border-radius: 5px;
   background-color: #2a2f4a;
-  background-image: -webkit-linear-gradient(
-    45deg,
-    rgba(255, 255, 255, 0.2) 25%,
-    transparent 25%,
-    transparent 50%,
-    rgba(255, 255, 255, 0.2) 50%,
-    rgba(255, 255, 255, 0.2) 75%,
-    transparent 75%,
-    transparent
-  );
+  background-image: -webkit-linear-gradient(45deg,
+      rgba(255, 255, 255, 0.2) 25%,
+      transparent 25%,
+      transparent 50%,
+      rgba(255, 255, 255, 0.2) 50%,
+      rgba(255, 255, 255, 0.2) 75%,
+      transparent 75%,
+      transparent);
 }
