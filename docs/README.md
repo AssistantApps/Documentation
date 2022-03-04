@@ -12,6 +12,14 @@ _Run this in your terminal or CMD_
 git clone https://github.com/AssistantApps/Documentation.git
 ```
 
+### 1.1 Change directory to the correct folder
+
+_Run this in your terminal or CMD_
+
+```
+cd Documentation
+```
+
 ### 2. Install dependencies
 
 _Run this in your terminal or CMD_
