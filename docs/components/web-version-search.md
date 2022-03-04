@@ -8,10 +8,8 @@ Available from: [github.com/AssistantApps/WebComponents](https://github.com/Assi
 `none`
 
 ### CSS Variables
-- Name: `--assistantapps-version-dropdown-background-colour`
-  - DefaultValue: `#ffffff`
-- Name: `--assistantapps-version-dropdown-background-hover-colour`
-  - DefaultValue: `#eeeeee`
+- `--assistantapps-version-dropdown-background-colour`: #ffffff
+- `--assistantapps-version-dropdown-background-hover-colour`: #eeeeee
 
 ### Example
 

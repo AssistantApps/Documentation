@@ -13,10 +13,8 @@ Available from: [github.com/AssistantApps/WebComponents](https://github.com/Assi
  - activedate: `Date`
 
 ### CSS Variables
-- Name: `--assistantapps-version-background-colour`
-  - DefaultValue: `#rgba(174, 176, 179, 0.7)`
-- Name: `--assistantapps-version-text-colour`
-  - DefaultValue: `white`
+- `--assistantapps-version-background-colour`: #rgba(174, 176, 179, 0.7)
+- `--assistantapps-version-text-colour`: white
 
 ### Example
 

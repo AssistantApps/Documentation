@@ -9,10 +9,10 @@ Available from: [github.com/AssistantApps/WebComponents](https://github.com/Assi
  - imageurl: `string`
 
 ### CSS Variables
-- Name: `--assistantapps-patron-background-colour`
-  - DefaultValue: `#6c757d`
-- Name: `--assistantapps-patron-text-colour`
-  - DefaultValue: `white`
+- `--assistantapps-font-family`: "Roboto", Helvetica, Arial, sans-serif
+- `--assistantapps-font-weight`: "bold"
+- `--assistantapps-patron-background-colour`: #6c757d
+- `--assistantapps-patron-text-colour`: white
 
 ### Example
 

@@ -12,12 +12,11 @@ Available from: [github.com/AssistantApps/WebComponents](https://github.com/Assi
  - linkurl: `string` - **Optional**
 
 ### CSS Variables
-- Name: `--assistantapps-team-member-background-colour`
-  - DefaultValue: `rgba(255, 255, 255, 0.1)`
-- Name: `--assistantapps-team-member-text-colour`
-  - DefaultValue: `#f0f0f0`
-- Name: `--assistantapps-team-member-link-text-colour`
-  - DefaultValue: `#0000EE`
+- `--assistantapps-font-family`: "Roboto", Helvetica, Arial, sans-serif
+- `--assistantapps-font-weight`: "bold"
+- `--assistantapps-team-member-background-colour`: rgba(255, 255, 255, 0.1)
+- `--assistantapps-team-member-text-colour`: #f0f0f0
+- `--assistantapps-team-member-link-text-colour`: #0000EE
 
 ### Example
 

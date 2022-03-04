@@ -8,8 +8,8 @@ Available from: [github.com/AssistantApps/WebComponents](https://github.com/Assi
 `none`
 
 ### CSS Variables
-- Name: `--assistantapps-font-family`
-  - DefaultValue: `"Roboto", Helvetica, Arial, sans-serif`
+- `--assistantapps-font-family`: "Roboto", Helvetica, Arial, sans-serif
+- `--assistantapps-font-weight`: "bold"
 
 
 ### Example
