@@ -58,6 +58,15 @@ img.max-h-350 {
   text-align: center;
 }
 
+body .markdown-section h1,
+body .markdown-section h2,
+body .markdown-section h3,
+body .markdown-section h4,
+body .markdown-section em,
+body .markdown-section strong {
+  color: $theme-secondary-colour;
+}
+
 .not-found {
 
   h1,
