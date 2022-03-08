@@ -4,4 +4,8 @@
 
 Current Members:
 
-<assistant-apps-team-list />
+<assistant-apps-team-list>
+    <div class="book-loader-wrapper" slot="loading">
+        <book-loader />
+    </div>
+</assistant-apps-team-list>

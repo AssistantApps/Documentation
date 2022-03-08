@@ -43,7 +43,7 @@ article#main>div:first-child {
 }
 
 section.cover {
-  height: min(100vh, 1000px) !important;
+  height: min(100vh, 800px) !important;
 }
 
 img.max-h-50 {
@@ -52,6 +52,10 @@ img.max-h-50 {
 
 img.max-h-350 {
   max-height: 350px;
+}
+
+.book-loader-wrapper {
+  text-align: center;
 }
 
 .not-found {
