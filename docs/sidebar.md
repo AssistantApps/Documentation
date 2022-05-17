@@ -14,6 +14,7 @@
 - Components
   - [WebComponents](components/web-components.md)
   - [FlutterCommonLib](components/flutter-components.md)
+  - [NugetPackages](components/nuget-packages.md)
 
 - [Changelog](changelog.md)
 
