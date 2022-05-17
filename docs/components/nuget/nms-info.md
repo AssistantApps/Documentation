@@ -11,7 +11,7 @@ _GameMajorVersion_ - _GameMinorVersion_ - _PackageBuildNumber_.
 
 For example if the game version used was **3.89** then the nuget version will start with **3.89**. The last number in the version string is the build number of the package. This the build number for the AssistantNMS organisation, so it will not be consecutive as their are a few private builds within the organisation.
 
-### WebApi usage example
+## WebApi usage example
 On build the nuget package will place all the json and data files inside of the `bin/` folder.
 
 The [AssistantNMS API](https://api.nmsassistant.com) makes use of this package and loads the directory using the following code:
