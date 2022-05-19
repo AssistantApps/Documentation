@@ -9,19 +9,13 @@
 <br />
 <br />
 
-
-<h3 style="color: #c8c8c8; text-align: center">
-    <img src="../../assets/img/underConstruction.svg" alt="UnderConstruction" class="max-h-350" />
-    <br />
-    This page needs more content!
-</h3>
-
 ## Links
 [![Website](https://img.shields.io/badge/Website-nmsassistant.com-blue?color=7986cc&style=for-the-badge)][assistantnmsWebsite]<br />
 [![WebApp](https://img.shields.io/badge/Web%20App-app.nmsassistant.com-blue?color=7986cc&style=for-the-badge)][assistantnmsWebapp]
 
 [![GooglePlay](https://img.shields.io/badge/Download-Google%20Play%20Store-blue?color=34A853&style=for-the-badge)][googlePlayStore]<br />
-[![AppleAppStore](https://img.shields.io/badge/Download-Apple%20App%20Store-black?color=333333&style=for-the-badge)][appleAppStore]
+[![AppleAppStore](https://img.shields.io/badge/Download-Apple%20App%20Store-black?color=333333&style=for-the-badge)][appleAppStore]<br />
+[![AppleAppStore](https://img.shields.io/badge/Download-Windows%20App%20Store-black?color=FFB700&style=for-the-badge)][windowsAppStore]
 
 [![Twitter](https://img.shields.io/badge/Twitter-@AssistantNMS-blue?color=1DA1F2&style=for-the-badge)][assistantnmsTwitter]
 [![Discord](https://img.shields.io/badge/Discord-AssistantApps-blue?color=5865F2&style=for-the-badge)][discord]<br />
@@ -37,4 +31,5 @@
 [assistantnmsSteamComm]: https://steamcommunity.com/groups/AssistantNMS?ref=assistantAppsDocs
 [googlePlayStore]: https://play.google.com/store/apps/details?id=com.kurtlourens.no_mans_sky_recipes&ref=assistantAppsDocs
 [appleAppStore]: https://apps.apple.com/us/app/assistant-for-no-mans-sky/id1480287625?ref=assistantAppsDocs
+[windowsAppStore]: https://apps.microsoft.com/store/detail/assistant-for-no-mans-sky/9NQLF7XD0LF3?ref=assistantAppsDocs
 [discord]: https://assistantapps.com/discord?ref=assistantAppsDocs

@@ -24,7 +24,7 @@
   padding-top: 2em;
 }
 
-article#main>div:first-child {
+article#main > div:first-child {
   display: inline;
 }
 
@@ -36,8 +36,8 @@ article#main>div:first-child {
 #assistantapps {
   margin-bottom: 0;
 
-  +blockquote,
-  +blockquote p {
+  + blockquote,
+  + blockquote p {
     margin: 0.25em 0;
   }
 }
@@ -48,6 +48,10 @@ section.cover {
 
 img.max-h-50 {
   max-height: 50vh;
+}
+
+img.max-h-75 {
+  max-height: 75vh;
 }
 
 img.max-h-350 {
@@ -68,7 +72,6 @@ body .markdown-section strong {
 }
 
 .not-found {
-
   h1,
   h2,
   h3 {
@@ -102,12 +105,14 @@ body::-webkit-scrollbar {
 body::-webkit-scrollbar-thumb {
   border-radius: 5px;
   background-color: #2a2f4a;
-  background-image: -webkit-linear-gradient(45deg,
-      rgba(255, 255, 255, 0.2) 25%,
-      transparent 25%,
-      transparent 50%,
-      rgba(255, 255, 255, 0.2) 50%,
-      rgba(255, 255, 255, 0.2) 75%,
-      transparent 75%,
-      transparent);
+  background-image: -webkit-linear-gradient(
+    45deg,
+    rgba(255, 255, 255, 0.2) 25%,
+    transparent 25%,
+    transparent 50%,
+    rgba(255, 255, 255, 0.2) 50%,
+    rgba(255, 255, 255, 0.2) 75%,
+    transparent 75%,
+    transparent
+  );
 }
