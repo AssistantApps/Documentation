@@ -1,6 +1,6 @@
 {
   "name": "assistantapps_docs",
-  "version": "1.0.12",
+  "version": "1.0.14",
   "description": "",
   "scripts": {
     "dev:install": "npm i docsify-cli -g",

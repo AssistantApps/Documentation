@@ -2,11 +2,11 @@
 
 > This app was originally released in early August 2019! The app was originally named **No Man's Sky Recipes**, when submitting the app to the Apple Store it was rejected due to the name and so the app was renamed.
 
-### [Architecture 🔗](apps/nms/architecture.md)
-### [WebApi 🔗](apps/nms/webApi.md)
+### [Architecture 🏛️](apps/nms/architecture.md)
+### [WebApi 🧑‍💻](apps/nms/webApi.md)
+### [WebComponents 🧩](apps/nms/webComponents.md)
+### [NMSCD 🏢](apps/nms/nmscd.md)
 
-<br />
-<br />
 <br />
 
 ## Links

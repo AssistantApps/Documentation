@@ -8,6 +8,18 @@
   --assistantapps-team-member-link-text-colour: #{$theme-primary-colour};
 }
 
+body {
+  background-color: #181c1f !important;
+}
+
+.sidebar {
+  background-color: #272a2c !important;
+}
+
+.github-corner svg {
+  color: #181c1f !important;
+}
+
 .ready .search {
   padding: 0;
 

@@ -32,6 +32,8 @@
 
 main .sidebar-toggle {
     background-color: #494949;
+    width: auto;
+    border-top-right-radius: 10px;
 }
 
 .sidebar {
@@ -41,11 +43,11 @@ main .sidebar-toggle {
     ul {
         margin: 0 0 0 25px;
 
-        li.active>a {
+        li.active > a {
             border-right: none;
         }
 
-        li>a>img {
+        li > a > img {
             margin-right: 0.5em;
 
             &[data-app-icon] {
@@ -56,7 +58,7 @@ main .sidebar-toggle {
     }
 }
 
-.sidebar-nav ul:not(.app-sub-sidebar)>li:not(.file)::before {
+.sidebar-nav ul:not(.app-sub-sidebar) > li:not(.file)::before {
     left: -15px;
     border-right: 1px solid #c8c8c8;
     border-bottom: 1px solid #c8c8c8;

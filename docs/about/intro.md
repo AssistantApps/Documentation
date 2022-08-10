@@ -38,6 +38,6 @@ But we hope that they will get back to developement in time.
 [kurt]: https://kurtlourens.com?ref=assistantAppsDocs
 [kurtImg]: https://kurtlourens.com/assets/images/KurtAvatar.svg
 [nmscd]: https://github.com/NMSCD/About
-[assistantApps]: https://assistantapps.com
-[discord]:https://discord.com/invite/q3aFBQM?ref=AssistantApps
+[assistantApps]: https://assistantapps.com?ref=assistantAppsDocs
+[discord]:https://discord.com/invite/q3aFBQM?ref=assistantAppsDocs
 [helptheDocumentation]: https://github.com/AssistantApps/Documentation
