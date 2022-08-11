@@ -20,11 +20,17 @@ body {
   color: #181c1f !important;
 }
 
-.ready .search {
-  padding: 0;
+.ready {
+  .search {
+    display: none;
+    padding: 0;
 
-  input[type="search"] {
-    background: $slight-background;
+    input[type="search"] {
+      background: $slight-background;
+    }
+  }
+  .sidebar > h1 {
+    margin-top: 1rem;
   }
 }
 
@@ -55,7 +61,7 @@ article#main > div:first-child {
 }
 
 section.cover {
-  height: min(100vh, 800px) !important;
+  height: min(100vh, 500px) !important;
 }
 
 img.max-h-50 {
