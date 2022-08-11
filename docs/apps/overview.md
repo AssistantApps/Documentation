@@ -25,6 +25,15 @@ The AssistantApps Apps also make use of the [AssistantApps Flutter Library][assi
 ![assistantapps-overview-library](../assets/img/assistantapps-overview-library.png)
 
 
+## Services
+
+<img src="https://img.shields.io/website?down_message=offline&label=AssistantNMS%20Website&style=for-the-badge&up_message=online&url=https%3A%2F%2Fnmsassistant.com" alt="AssistantNMS%20Website" />
+<br />
+<img src="https://img.shields.io/website?down_message=offline&label=AssistantNMS%20WebApi&style=for-the-badge&up_message=online&url=https%3A%2F%2Fapi.nmsassistant.com" alt="AssistantNMS Webapi" />
+<br />
+<img src="https://img.shields.io/website?down_message=offline&label=AssistantApps%20WebApi&style=for-the-badge&up_message=online&url=https%3A%2F%2Fapi.assistantapps.com" alt="AssistantApps Webapi" />
+
+
 <!-- Links used in the page -->
 [assistantApps]: https://assistantapps.com?ref=assistantAppsDocs
 [assistantAppsApi]: https://api.assistantapps.com?ref=assistantAppsDocs

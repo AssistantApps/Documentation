@@ -10,9 +10,9 @@
 - [Github Organisation][githubOrg]
 
 
-- [<img align="left" alt="nmsassistant.com" width="22px" src="https://cdn.assistantapps.com/icon/assistantNMS.png" />Assistant for No Man's Sky][assistantnms]
-- [<img align="left" alt="scrapassistant.com" width="22px" src="https://cdn.assistantapps.com/icon/assistantSMS.png" />Assistant for Scrap Mechanic][assistantsms]
-- [<img align="left" alt="Kronos" width="22px" src="https://cdn.assistantapps.com/icon/kronos.jpg" />Kronos: Guides for Zombies][assistantKronos]
+- [<img align="left" alt="nmsassistant.com" width="22px" src="https://cdn.assistantapps.com/icon/assistantNMS.png" />&nbsp;Assistant for No Man's Sky][assistantnms]
+- [<img align="left" alt="scrapassistant.com" width="22px" src="https://cdn.assistantapps.com/icon/assistantSMS.png" />&nbsp;Assistant for Scrap Mechanic][assistantsms]
+- [<img align="left" alt="Kronos" width="22px" src="https://cdn.assistantapps.com/icon/kronos.jpg" />&nbsp;Kronos: Guides for Zombies][assistantKronos]
 
 
 ## Community
@@ -37,6 +37,14 @@ Please consider donating if you like using an app that is part of the AssistantA
 [Brave][brave], 
 [Open Collective][openCollective]
 
+
+## Services
+
+<img src="https://img.shields.io/website?down_message=offline&label=AssistantNMS%20Website&style=for-the-badge&up_message=online&url=https%3A%2F%2Fnmsassistant.com" alt="AssistantNMS%20Website" />
+<br />
+<img src="https://img.shields.io/website?down_message=offline&label=AssistantNMS%20WebApi&style=for-the-badge&up_message=online&url=https%3A%2F%2Fapi.nmsassistant.com" alt="AssistantNMS Webapi" />
+<br />
+<img src="https://img.shields.io/website?down_message=offline&label=AssistantApps%20WebApi&style=for-the-badge&up_message=online&url=https%3A%2F%2Fapi.assistantapps.com" alt="AssistantApps Webapi" />
 
 <!-- Links used in the page -->
 
