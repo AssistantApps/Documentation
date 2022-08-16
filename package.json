@@ -1,7 +1,8 @@
 {
   "name": "assistantapps_docs",
   "version": "1.0.17",
-  "description": "",
+  "description": "Documentation for AssistantApps",
+  "homepage": "https://docs.assistantapps.com",
   "scripts": {
     "dev:install": "npm i docsify-cli -g",
     "dev": "docsify serve docs",
