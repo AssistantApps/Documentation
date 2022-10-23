@@ -6,6 +6,7 @@
 ### [WebApi 🧑‍💻](apps/nms/webApi.md)
 ### [WebComponents 🧩](apps/nms/webComponents.md)
 ### [NMSCD 🏢](apps/nms/nmscd.md)
+### [App builds 👷‍♂️](apps/nms/builds.md)
 
 <br />
 
