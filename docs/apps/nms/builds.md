@@ -13,11 +13,18 @@ The iOS part of the build generates an `.ipa` file which is then pushed to the A
 
 ### Windows
 
-Using [msix dart package][https://pub.dev/documentation/msix/latest/] it is simple to make a basic `.msix` file that can be submitted to the Microsoft store which will apply their own certificate.
+Using the [msix dart package](https://pub.dev/documentation/msix/latest/) it is simple to make a basic `.msix` file that can be submitted to the Microsoft store which will apply their own certificate.
 
 > Since version 1.114.0 the Microsoft Store has made it very difficult to update the application. They want the name changed and for all screenshots as well as the app icon to have copyrighted images remove 🤷‍♂️
 
 The produced `.msix` files cannot be installed on their own, so the new process requires the use of [InnoSetup](https://jrsoftware.org/isdl.php).
+
+### Windows setup
+
+- Generate release build: `flutter build windows --release`
+- Wrap into Inno installer
+  - Use `installers/assistantNMS.iss` to generate the Windows installer
+  - Executable will be placed in `installers`
 
 ### Web
 
