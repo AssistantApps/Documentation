@@ -17,9 +17,9 @@ End of 2019, we brought to life the [NMSCD][nmscd], to form connections between 
 
 ## Another milestone
 Then, in mid 2021, our first collaboration was formed.
-The Kronos app, made for the `Zombie modes` aviable in various games, was developed by PostMaloy. You can find more details and links to the app on our [website][assistantApps].
+The Kronos app, made for the `Zombie modes` available in various games, was developed by PostMaloy. You can find more details and links to the app on our [website][assistantApps].
 This step made us think, but we didnt touch the topic of collaboration too much.
-Sphynxcolt wrote an article `(Unfortunately only aviable for team members)` about how Asstsant Apps could evolve.
+Sphynxcolt wrote an article `(Unfortunately only available for team members)` about how Asstsant Apps could evolve.
 It has detailed thoughts about the pros ans cons of collaboration, so Assistant Apps starts with a solid understanding of what to look for in the future.
 
 ## Next plans
