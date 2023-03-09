@@ -61,7 +61,7 @@ article#main > div:first-child {
 }
 
 section.cover {
-  height: min(100vh, 500px) !important;
+  min-height: 500px !important;
 }
 
 img.max-h-50 {
@@ -101,6 +101,10 @@ body .markdown-section strong {
   img {
     max-width: 500px;
   }
+}
+
+img {
+  border-radius: 4px;
 }
 
 ::selection {

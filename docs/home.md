@@ -10,9 +10,9 @@
 - [Github Organisation][githubOrg]
 
 
-- [<img align="left" alt="nmsassistant.com" width="22px" src="https://cdn.assistantapps.com/icon/assistantNMS.png" />&nbsp;Assistant for No Man's Sky][assistantnms]
-- [<img align="left" alt="scrapassistant.com" width="22px" src="https://cdn.assistantapps.com/icon/assistantSMS.png" />&nbsp;Assistant for Scrap Mechanic][assistantsms]
-- [<img align="left" alt="Kronos" width="22px" src="https://cdn.assistantapps.com/icon/kronos.jpg" />&nbsp;Kronos: Guides for Zombies][assistantKronos]
+- [<img align="left" alt="nmsassistant.com" width="22px" src="https://cdn.assistantapps.com/icon/assistantNMS.png" />&nbsp;Assistant for No Man's Sky homepage][assistantnms]
+- [<img align="left" alt="scrapassistant.com" width="22px" src="https://cdn.assistantapps.com/icon/assistantSMS.png" />&nbsp;Assistant for Scrap Mechanic webapp][assistantsms]
+- [<img align="left" alt="Kronos" width="22px" src="https://cdn.assistantapps.com/icon/kronos.jpg" />&nbsp;Kronos: Guides for Zombies - Google Play][assistantKronos]
 
 
 ## Community
