@@ -12,7 +12,9 @@ Available from: [github.com/AssistantApps/WebComponents](https://github.com/Assi
  - platforms: `Array<string>`
  - activedate: `Date`
 
-### CSS Variables
+### CSS Variables - _[ info](/components/web/general?id=css-variables)_
+- `--assistantapps-font-family`: "Roboto", Helvetica, Arial, sans-serif
+- `--assistantapps-font-weight`: "bold"
 - `--assistantapps-version-background-colour`: #rgba(174, 176, 179, 0.7)
 - `--assistantapps-version-text-colour`: white
 

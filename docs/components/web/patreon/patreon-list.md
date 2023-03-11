@@ -11,6 +11,11 @@ Available from: [github.com/AssistantApps/WebComponents](https://github.com/Assi
 - `--assistantapps-font-family`: "Roboto", Helvetica, Arial, sans-serif
 - `--assistantapps-font-weight`: "bold"
 
+### Slots
+- `loading`
+  - Displayed while the network request is loading
+- `error`
+  - Displayed when the network request has failed
 
 ### Example
 

@@ -13,9 +13,9 @@
   - [<img align="left" alt="Kronos" data-app-icon src="https://cdn.assistantapps.com/icon/kronos.jpg" />Kronos: Guides for Zombies](apps/kgz-main.md)
 
 - Components
-  - [WebComponents](components/web-components.md)
-  - [FlutterCommonLib](components/flutter-components.md)
-  - [NugetPackages](components/nuget-packages.md)
+  - [🕸⠀WebComponents](components/web-components.md)
+  - [🐦 FlutterCommonLib](components/flutter-components.md)
+  - [📦 Packages](components/packages.md)
 
 - [Changelog](changelog.md)
 

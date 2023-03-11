@@ -11,10 +11,11 @@ Available from: [github.com/AssistantApps/WebComponents](https://github.com/Assi
  - linkname: `string` - **Optional**
  - linkurl: `string` - **Optional**
 
-### CSS Variables
+### CSS Variables - _[ info](/components/web/general?id=css-variables)_
 - `--assistantapps-font-family`: "Roboto", Helvetica, Arial, sans-serif
 - `--assistantapps-font-weight`: "bold"
 - `--assistantapps-team-member-background-colour`: rgba(255, 255, 255, 0.1)
+- `--assistantapps-team-member-tile-size`: 75px
 - `--assistantapps-team-member-text-colour`: #f0f0f0
 - `--assistantapps-team-member-link-text-colour`: #0000EE
 
