@@ -20,6 +20,7 @@
 
 
 #### Donators
+- [Donation Options](components/web/donators/donation-options.md)
 - [Donators list](components/web/donators/donators-list.md)
 
 
